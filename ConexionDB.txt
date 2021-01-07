@@ -1,0 +1,4 @@
+host=localhost
+ruta=C:/Microsip datos/KARLA.FDB
+us=sysdba
+passw=1
